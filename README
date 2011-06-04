@@ -1,0 +1,11 @@
+ARDUINO OUTPUT INCREMENTER
+This is v1 of my project to measure the output of my deskpedals. Stay tuned for new features/measurements.
+
+v1 features
+- Increment each button push to simulate the output from the pedals
+
+v2 plans
+- Integrate hardware prototype with the desktops
+
+v3 plans
+- Devise different metrics for output
